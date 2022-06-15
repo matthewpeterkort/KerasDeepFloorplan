@@ -1,5 +1,19 @@
 # *Keras implementation*
 
+## Explanation
+
+This is a working Keras CNN from a Senior Project that I Carried in Spring of 2022. Since I hadn't known how to write CNNs in Keras prior to this 
+project, so I started from an example I found for cat/dog image classification that I had found on the internet. This google collab is linked here:
+https://colab.research.google.com/drive/1ZfablQK6hTqG4X2v3KrqJUj9iLtbZH_1
+
+It's a different project, but the fundamental components of it, along with studying Keras documentation gave me enough direction
+to write the FloorNet.py file in this repo. The network architecture was inspired from an older paper and repo linked below. The paper and repo itself was 
+very old TF 1.0 code, and we were told to modernize it. I wrote the Following Keras implementation on my own. My groupmates were overwhelmed with
+other classes at the time and weren't too keen on helping once I got some footing in the project. 
+
+paper: https://arxiv.org/pdf/1908.11025.pdf
+repo: https://github.com/zlzeng/DeepFloorplan
+
 ## Prerequisite
 
   - Dataset Download Link
