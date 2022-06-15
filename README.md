@@ -7,7 +7,7 @@
   - Model Download Link
   - https://www.dropbox.com/scl/fo/1phah9bm81xists8kl17m/h?dl=0&rlkey=5wyddudw9eqsrzoapz2c9rmnq
 
-  Place the downloaded folders in the `keras_implementation` and ensure the code `FloorplanNet.py` is to be in the `Utils` folders.
+  Make a new file for the Dataset Folders and call it "dataset". Remove the jp file from the variables listed below. Have the Model files and the FloorplanNet.py in the same folder. House the Dataset and (Net and Models) inside the same directory.
 
 ## Required packages
 
